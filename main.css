@@ -814,6 +814,63 @@ main .section5 .container .also form button {
   margin-left: -12px;
 }
 
+footer {
+  background: #150C01;
+  height: 429px;
+}
+footer .container .finish {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  padding-top: 137px;
+}
+footer .container .finish .footer_bolim img {
+  margin-bottom: 25px;
+}
+footer .container .finish .footer_bolim a {
+  display: flex;
+  padding: 8px;
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+}
+footer .container .finish .home a {
+  text-decoration: none;
+  display: flex;
+  padding: 4px;
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+}
+footer .container .finish .Menu a {
+  text-decoration: none;
+  display: flex;
+  padding: 4px;
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+}
+footer .container .finish .Company a {
+  text-decoration: none;
+  display: flex;
+  padding: 4px;
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+}
+footer .container .finish .Company .aykin {
+  padding-top: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 @media (max-width: 1125px) {
   main .section2 .very {
     display: none;
@@ -901,6 +958,12 @@ main .section5 .container .also form button {
   }
   main .section5 .container .also form button {
     width: 100px;
+  }
+  footer {
+    height: 50%;
+  }
+  footer .container .finish {
+    flex-direction: column;
   }
 }
 @media (max-width: 850px) {

@@ -8,7 +8,7 @@
     width: 100%;
     max-width: 1140px;
     margin: 0 auto;
-    padding: 15px;
+    padding: 25px;
 }
 header{
     .container{
@@ -115,7 +115,7 @@ header{
 
             .stek2{
                 img{
-                    width: 745px;
+                    width: 130%;
                     margin-left: -20px;
                 }
             }
@@ -263,22 +263,20 @@ main{
         .very{
             position: absolute;
             margin-top: -300px;
-          
             width: 579px;
         }
         .container{
             .section2_praduct{
                 display: flex;
                 align-items: center;
-                gap: 97px;
+                gap: 85px;
                 margin-top: 70px;
                  
                 .Group{
-                    margin-left: -20px;
-                    width: 555px;
+                    
                 }
                 .marketing{
-                    width: 488px;
+                    width: 50%;
                     .About{
                         color: #DC780B;
                         font-weight: 500;
@@ -292,14 +290,14 @@ main{
                         font-size: 31px;
                         line-height: 40px;
                         margin-bottom: 30px;
-                        width: 457px;
                     }
                     .are{
                         font-weight: 500;
-                        font-size: 20px;
+                        font-size: 16px;
                         line-height: 24px;
                         color: #32312f;
                         margin-bottom: 29px;
+                        
                     }
                     button{
                         background: #DC780B;
@@ -321,4 +319,1386 @@ main{
             }
         }
     }
+    .section3{
+        .container{
+            .Menu{
+                margin-top: 115px;
+                color: #DC780B;
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 24px;
+                text-align: center;
+                margin-bottom: 9px;
+            }
+            h2{
+                font-weight: 700;
+                font-size: 31px;
+                line-height: 24px;
+                color: #150C01;
+                margin-bottom: 25px;
+                text-align: center;
+            }
+            .many{
+                
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 24px;
+                color: #434242;
+                 text-align: center;
+                 margin: 0 auto;
+                margin-bottom: 80px;
+            }
+            .section3_fasfood{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 30px;
+                margin-bottom: 30px;
+                .Vegie_Muffen{
+                    // width: 360px;
+                    // height: 446px;
+                    border: 1px solid #0000001A;
+                    border-top: none;
+                    border-top-left-radius: 50%;
+                    border-bottom-left-radius: 15px;
+                    border-bottom-right-radius: 15px;
+                    img{
+                        width: 100%;
+                        margin-bottom: 21px;
+                    }
+                    .sum{
+                        display: flex;
+                        align-items: center;
+                        gap: 125px;
+                         padding-left: 25px;
+                         padding-right: 20px;
+                         margin-bottom: 20px;
+                         h3{
+                            font-weight: 700;
+                            width: 146px;
+                            font-size: 25px;
+                            line-height: 24px;
+                            color: #150C01;
+                         }
+                         p{
+                            color: #150C01;
+                             font-weight: 700;
+                            font-size: 25px;
+                            line-height: 24px;
+                         }
+                    }
+                    .start{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #545453;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        margin-bottom: 20px;
+                    }
+                    .puls{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin-bottom: 25px;
+                        p{
+                            border: 1px solid #DC780B;
+                            background: #DC780B;
+                            width: 34px;
+                            height: 32px;
+                            margin-left: 25px;
+                            color: white;
+                            font-size: 25px;
+                            text-align: center;
+                            border-radius: 6px;
+                        }
+                        .icon{
+                            padding-right: 25px;
+                            color: #DC780B;
+                        }
+                    }
+                }
+
+                .Vegie_Muffen2{
+                    // width: 360px;
+                    // height: 446px;
+                    border: 1px solid #0000001A;
+                    border-top: none;
+                    border-top-left-radius: 50%;
+                      border-bottom-left-radius: 15px;
+                    border-bottom-right-radius: 15px;
+                    img{
+                        width: 100%;
+                        margin-bottom: 21px;
+                    }
+                    .sum{
+                        display: flex;
+                        align-items: center;
+                        gap: 125px;
+                         padding-left: 25px;
+                         padding-right: 20px;
+                         margin-bottom: 20px;
+                         h3{
+                            font-weight: 700;
+                            width: 146px;
+                            font-size: 25px;
+                            line-height: 24px;
+                            color: #150C01;
+                         }
+                         p{
+                            color: #150C01;
+                             font-weight: 700;
+                            font-size: 25px;
+                            line-height: 24px;
+                         }
+                    }
+                    .start{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #545453;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        margin-bottom: 20px;
+                    }
+                    .puls{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin-bottom: 25px;
+                        p{
+                            border: 1px solid #DC780B;
+                            background: #DC780B;
+                            width: 34px;
+                            height: 32px;
+                            margin-left: 25px;
+                            color: white;
+                            font-size: 25px;
+                            text-align: center;
+                            border-radius: 6px;
+                        }
+                        .icon{
+                            padding-right: 25px;
+                            color: #DC780B;
+                        }
+                    }
+                }
+
+                 .Vegie_Muffen3{
+                    // width: 360px;
+                    // height: 446px;
+                    border: 1px solid #0000001A;
+                    border-top: none;
+                    border-top-left-radius: 50%;
+                      border-bottom-left-radius: 15px;
+                    border-bottom-right-radius: 15px;
+                    img{
+                        width: 100%;
+                        margin-bottom: 21px;
+                    }
+                    .sum{
+                        display: flex;
+                        align-items: center;
+                        gap: 125px;
+                         padding-left: 25px;
+                         padding-right: 20px;
+                         margin-bottom: 20px;
+                         h3{
+                            font-weight: 700;
+                            width: 146px;
+                            font-size: 25px;
+                            line-height: 24px;
+                            color: #150C01;
+                         }
+                         p{
+                            color: #150C01;
+                             font-weight: 700;
+                            font-size: 25px;
+                            line-height: 24px;
+                         }
+                    }
+                    .start{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #545453;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        margin-bottom: 20px;
+                    }
+                    .puls{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin-bottom: 25px;
+                        p{
+                            border: 1px solid #DC780B;
+                            background: #DC780B;
+                            width: 34px;
+                            height: 32px;
+                            margin-left: 25px;
+                            color: white;
+                            font-size: 25px;
+                            text-align: center;
+                            border-radius: 6px;
+                        }
+                        .icon{
+                            padding-right: 25px;
+                            color: #DC780B;
+                        }
+                    }
+                }
+            }
+
+            .fasfood2{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 30px;
+                margin-bottom: 50px;
+                .Delmonico{
+                    // width: 360px;
+                    // height: 446px;
+                    border: 1px solid #0000001A;
+                    border-top: none;
+                    border-top-left-radius: 50%;
+                    border-bottom-left-radius: 15px;
+                    border-bottom-right-radius: 15px;
+                    img{
+                        width: 100%;
+                        margin-bottom: 21px;
+                 }
+
+                 .suma{
+                        display: flex;
+                        align-items: center;
+                        gap: 30px;
+                         padding-left: 20px;
+                         padding-right: 25px;
+                         margin-bottom: 20px;
+                         h4{
+                            font-weight: 700;
+                            width: 248px;
+                            font-size: 25px;
+                            line-height: 24px;
+                            color: #150C01;
+                         }
+                         p{
+                            color: #150C01;
+                             font-weight: 700;
+                            font-size: 25px;
+                            line-height: 24px;
+                         }
+                    }
+
+                    .start{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #545453;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        margin-bottom: 20px;
+                    }
+
+                     .puls{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin-bottom: 25px;
+                        p{
+                            border: 1px solid #DC780B;
+                            background: #DC780B;
+                            width: 34px;
+                            height: 32px;
+                            margin-left: 25px;
+                            color: white;
+                            font-size: 25px;
+                            text-align: center;
+                            border-radius: 6px;
+                        }
+                        .icon{
+                            padding-right: 25px;
+                            color: #DC780B;
+                        }
+                    }
+                }
+
+                  .Egg_Masala{
+                    // width: 360px;
+                    // height: 446px;
+                    border: 1px solid #0000001A;
+                    border-top: none;
+                    border-top-left-radius: 50%;
+                    border-bottom-left-radius: 15px;
+                    border-bottom-right-radius: 15px;
+                    img{
+                        width: 100%;
+                        margin-bottom: 21px;
+                 }
+
+                 .suma{
+                        display: flex;
+                        align-items: center;
+                        gap: 30px;
+                         padding-left: 20px;
+                         padding-right: 25px;
+                         margin-bottom: 20px;
+                         h4{
+                            font-weight: 700;
+                            width: 248px;
+                            font-size: 25px;
+                            line-height: 24px;
+                            color: #150C01;
+                         }
+                         p{
+                            color: #150C01;
+                             font-weight: 700;
+                            font-size: 25px;
+                            line-height: 24px;
+                         }
+                    }
+
+                    .start{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #545453;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        margin-bottom: 20px;
+                    }
+
+                     .puls{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin-bottom: 25px;
+                        p{
+                            border: 1px solid #DC780B;
+                            background: #DC780B;
+                            width: 34px;
+                            height: 32px;
+                            margin-left: 25px;
+                            color: white;
+                            font-size: 25px;
+                            text-align: center;
+                            border-radius: 6px;
+                        }
+                        .icon{
+                            padding-right: 25px;
+                            color: #DC780B;
+                        }
+                    }
+                }
+
+                   .Peach_Melba_dish{
+                    // width: 360px;
+                    // height: 446px;
+                    border: 1px solid #0000001A;
+                    border-top: none;
+                    border-top-left-radius: 50%;
+                    border-bottom-left-radius: 15px;
+                    border-bottom-right-radius: 15px;
+                    img{
+                        width: 100%;
+                        margin-bottom: 21px;
+                 }
+
+                 .suma{
+                        display: flex;
+                        align-items: center;
+                        gap: 30px;
+                         padding-left: 20px;
+                         padding-right: 25px;
+                         margin-bottom: 20px;
+                         h4{
+                            font-weight: 700;
+                            width: 248px;
+                            font-size: 25px;
+                            line-height: 24px;
+                            color: #150C01;
+                         }
+                         p{
+                            color: #150C01;
+                             font-weight: 700;
+                            font-size: 25px;
+                            line-height: 24px;
+                         }
+                    }
+
+                    .start{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #545453;
+                        padding-left: 25px;
+                        padding-right: 25px;
+                        margin-bottom: 20px;
+                    }
+
+                     .puls{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin-bottom: 25px;
+                        p{
+                            border: 1px solid #DC780B;
+                            background: #DC780B;
+                            width: 34px;
+                            height: 32px;
+                            margin-left: 25px;
+                            color: white;
+                            font-size: 25px;
+                            text-align: center;
+                            border-radius: 6px;
+                        }
+                        .icon{
+                            padding-right: 25px;
+                            color: #DC780B;
+                        }
+                    }
+                }
+                 
+            }
+
+            .more{
+               text-align: center;
+               margin-bottom: 120px;
+                 button{
+                border: 1px solid #DC780B;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 100%;
+                background: white;
+                color: #DC780B;
+                width: 142px;
+                height: 42px;
+                border-radius: 5px;
+               
+            }
+            }
+            
+            button:hover{
+                background: #DC780B;
+                color: white;
+                border: none;
+            }
+        }
+    }
+
+    .section4{
+        background: #FBF1E7;
+        height: 518px;
+        margin-bottom: 213px;
+        .container{
+            .away{
+                display: flex;
+                align-items: center;
+                gap: 70px;
+                 
+                .app{
+                    width: 555px;
+                    margin-top: -144px;
+                    .take{
+                        color: #DC780B;
+                        font-weight: 500;
+                        font-size: 20px;
+                        line-height: 24px;
+                         margin-bottom: 5px;
+                    }
+                    h4{
+                        color: #150C01;
+                        font-weight: 700;
+                        font-size: 31px;
+                        line-height: 40px;
+                        margin-bottom: 29px;
+                    }
+                    .you{
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #52504f;
+                        margin-bottom: 39px;
+                    }
+                    .goole{
+                        display: flex;
+                        align-items: center;
+                        gap: 30px;
+                    }
+                }
+                .iphone{
+                    margin-top: -98px;
+                }
+            }
+        }
+    }
+
+    .section5{
+        background: #FBF1E7;
+        height: 448px;
+        .container{
+            .also{
+                p{
+                    padding-top: 115px;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 100%;
+                    color: #DC780B;
+                    margin-bottom: 15px;
+                    text-align: center;
+                }
+                h2{
+                    font-weight: 700;
+                    font-size: 31px;
+                    line-height: 40px;
+                    color: #150C01;
+                    text-align: center;
+                    width: 749px;
+                    margin: 0 auto;
+                    margin-bottom: 46px;
+                }
+                form{
+                     text-align: center;
+                    input{
+                        width: 650px;
+                        height: 75px;
+                        border-radius: 10px;
+                        border: none;
+                        background: white;
+                        padding: 32px;
+                    }
+                    button{
+                        width: 150px;
+                        background: #DC780B;
+                        height: 75px;
+                        border-radius: 10px;
+                        color: white;
+                        border: none;
+                        margin-left: -12px;
+                    }
+                }
+            }
+        }
+    }
+}
+footer{
+    .container{
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1125px){
+   main{
+     .section2{
+        .very{
+            display: none;
+        }
+    }
+    .section3{
+        .container{
+            .section3_fasfood{
+                flex-wrap: wrap;
+            }
+            .fasfood2{
+                flex-wrap: wrap;
+            }
+        }
+    }
+   }
+}
+
+@media(max-width:1093px){
+    main{
+         .section2{
+        .very{
+            display: none;
+        }
+    .section2_praduct{
+     
+      .marketing{
+        width: 30px;
+      }
+    }
+    }
+    .section4{
+        height: 50%;
+        .container{
+            .away{
+                flex-direction: column;
+           .app{
+            margin-top: 50px;
+           }
+            .iphone{
+                margin-top: 100px;
+            }
+             }
+        }
+    }
+    }
+}
+
+@media(max-width:950px){
+
+    header{
+        .container{
+            .header_navbar{
+                  button{
+                   margin-right: 30px;
+                  }
+            }
+            .header_time{
+                display: flex;
+                .header_stek{
+                     h2{
+                        width: 470px;
+                        font-size: 38px;
+                     }
+                     p{
+                        font-size: 16px;
+                     }
+                     .order{
+                        .Now{
+                            width: 140px;
+                        }
+                        .Food{
+                            width: 160px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 110%;
+                        margin-left: 20px;
+                        
+                    }
+                }
+            }
+        }
+    }
+    main{
+        .section1{
+        .container{
+            .section1_cards{
+                flex-wrap: wrap;
+               
+                .card{
+                    width: 450px;
+                    .uycha{
+                   
+                    }
+                   
+                }
+                .card2{
+                    width: 450px;
+                }
+                .card3{
+                    width: 450px;
+                }
+            }
+        }
+    }
+    .section2{
+        .very{
+            display: none;
+        }
+    .container{
+         .section2_praduct{
+       h2{
+            width: 360px;
+           
+        }
+    }
+    }
+    }
+     .section3{
+        .container{
+            .section3_fasfood{
+                flex-wrap: wrap;
+                
+            }
+            .fasfood2{
+                flex-wrap: wrap;
+                
+            }
+        }
+    }
+    .section5{
+        .container{
+            .also{
+                h2{
+                    width: 500px;
+                }
+                form{
+                    input{
+                        width: 450px;
+                    }
+                    button{
+                        width: 100px;
+                    }
+                }
+            }
+        }
+    }
+    }
+}
+
+
+@media(max-width:850px){
+
+    header{
+        .container{
+            .header_navbar{
+           
+            }
+            .header_time{
+                display: flex;
+                .header_stek{
+                     h2{
+                        width: 380px;
+                        font-size: 30px;
+                     }
+                     p{
+                        font-size: 14px;
+                     }
+                     .order{
+                        .Now{
+                            width: 130px;
+                        }
+                        .Food{
+                            width: 120px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 120%;
+                        
+                    }
+                }
+            }
+        }
+    }
+     main{
+        
+     }
+}
+
+@media(max-width:780px){
+
+    header{
+        .container{
+            .header_navbar{
+           .header_hoome{
+            ul{
+                li a{
+                    font-size: 14px;
+                }
+            }
+           }
+           button{
+            width: 125px;
+            font-size: 12px;
+           }
+            }
+            .header_time{
+                display: flex;
+                .header_stek{
+                     h2{
+                        width: 380px;
+                        font-size: 30px;
+                     }
+                     p{
+                        font-size: 14px;
+                     }
+                     .order{
+                        .Now{
+                            width: 130px;
+                        }
+                        .Food{
+                            width: 120px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 120%;
+                        
+                    }
+                }
+            }
+        }
+    }
+     main{
+        .section1{
+        .container{
+            .section1_cards{
+                flex-wrap: wrap;
+                .card{
+                    width: 450px;
+                }
+                .card2{
+                    width: 450px;
+                }
+                .card3{
+                    width: 450px;
+                }
+            }
+        }
+    }
+    .section2{
+        .very{
+            display: none;
+        }
+    .container{
+         .section2_praduct{
+      flex-direction: column;
+      .marketing{
+        
+        h2{
+            width: 420px;
+        }
+      }
+    }
+    }
+    }
+     .section3{
+        .container{
+            .many{
+                font-size: 10px;
+                width: 500px;
+            }
+            .section3_fasfood{
+                flex-direction: column;
+            
+            }
+            .fasfood2{
+                flex-direction: column;
+            }
+        }
+    }
+     }
+}
+
+@media(max-width:680px){
+
+    header{
+        .container{
+            .header_navbar{
+           .header_hoome{
+            ul{
+                li a{
+                    font-size: 10px;
+                }
+            }
+           }
+           button{
+            width: 90px;
+            height: 38px;
+            font-size: 10px;
+           }
+            }
+            .header_time{
+                
+                flex-direction: column;
+                .header_stek{
+                    
+                     h2{
+                        width: 380px;
+                        font-size: 30px;
+                     }
+                     p{
+                        font-size: 14px;
+                        width: 400px;
+                     }
+                     .order{
+                        .Now{
+                            width: 130px;
+                        }
+                        .Food{
+                            width: 120px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 80%;
+                        
+                    }
+                }
+            }
+        }
+    }
+     main{
+        .section1{
+        .container{
+            .section1_cards{
+                flex-wrap: wrap;
+               align-items: center;
+               justify-content: center;
+                .card{
+                    width: 450px;
+                }
+                .card2{
+                    width: 450px;
+                }
+                .card3{
+                    width: 450px;
+                }
+            }
+        }
+    }
+    .section2{
+        .very{
+            display: none;
+        }
+    .container{
+         .section2_praduct{
+      flex-direction: column;
+      .marketing{
+        
+        h2{
+            width: 350px;
+           
+        }
+      }
+    }
+    }
+    }
+    .section4{
+        height: 50%;
+        .container{
+            .away{
+                flex-direction: column;
+           .app{
+            margin-top: 50px;
+            width: 380px;
+           }
+            .iphone{
+                margin-top: 100px;
+            }
+             }
+        }
+    }
+     }
+}
+
+@media(max-width:590px){
+
+    header{
+        .container{
+            .header_navbar{
+           .header_hoome{
+            ul{
+                
+                li a{
+                    font-size: 10px;
+                     display: none;
+                }
+            }
+           }
+           button{
+            width: 70px;
+            height: 28px;
+            font-size: 10px;
+           }
+            }
+            .header_time{
+                display: flex;
+                flex-direction: column;
+                .header_stek{
+                    
+                     h2{
+                        width: 380px;
+                        font-size: 30px;
+                     }
+                     p{
+                        font-size: 14px;
+                        width: 400px;
+                     }
+                     .order{
+                        .Now{
+                            width: 130px;
+                        }
+                        .Food{
+                            width: 120px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 80%;
+                        
+                    }
+                }
+            }
+        }
+    }
+     main{
+        .section1{
+        .container{
+            .section1_cards{
+                flex-wrap: wrap;
+               align-items: center;
+               justify-content: center;
+                .card{
+                    width: 450px;
+                }
+                .card2{
+                    width: 450px;
+                }
+                .card3{
+                    width: 450px;
+                }
+            }
+        }
+    }
+    .section2{
+        .very{
+            display: none;
+        }
+    .container{
+         .section2_praduct{
+      flex-direction: column;
+      align-items: start;
+      .Group{
+        width: 370px;
+      }
+      .marketing{
+        h2{
+            width: 240px;
+            
+        }
+        .are{
+           width: 200px;
+        }
+        
+      }
+    }
+    }
+    }
+      .section3{
+        .container{
+            .many{
+                font-size: 10px;
+                width: 300px;
+            }
+            .section3_fasfood{
+                flex-direction: column;
+            
+            }
+            .fasfood2{
+                flex-direction: column;
+            }
+        }
+    }
+     .section5{
+        .container{
+            .also{
+                h2{
+                    width: 400px;
+                }
+                form{
+                    input{
+                        width: 350px;
+                    }
+                    button{
+                        width: 80px;
+                    }
+                }
+            }
+        }
+    }
+     }
+}
+
+@media(max-width:480px){
+
+    header{
+        .container{
+            .header_navbar{
+           .header_hoome{
+            ul{
+                
+                li a{
+                    font-size: 10px;
+                     display: none;
+                }
+            }
+           }
+           button{
+            width: 70px;
+            height: 28px;
+            font-size: 10px;
+           }
+            }
+            .header_time{
+                display: flex;
+                flex-direction: column;
+                .header_stek{
+                    
+                     h2{
+                        width: 280px;
+                        font-size: 30px;
+                        line-height: normal;
+                     }
+                     p{
+                        font-size: 10px;
+                        line-height: normal;
+                       
+                        width: 200px;
+                     }
+                     .order{
+                        .Now{
+                            width: 130px;
+                        }
+                        .Food{
+                            width: 120px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 80%;
+                        
+                    }
+                }
+            }
+        }
+    }
+   main{
+     .section1{
+        .container{
+            .section1_cards{
+                flex-wrap: wrap;
+               align-items: center;
+               justify-content: center;
+                .card{
+                    width: 450px;
+                }
+                .card2{
+                    width: 450px;
+                }
+                .card3{
+                    width: 450px;
+                }
+            }
+        }
+    }
+    .section2{
+        .very{
+            display: none;
+        }
+    .container{
+         .section2_praduct{
+      flex-direction: column;
+      align-items: start;
+      .Group{
+        width: 350px;
+      }
+      .marketing{
+        h2{
+            width: 240px;
+            
+        }
+        .are{
+           width: 200px;
+        }
+        
+      }
+    }
+    }
+    }
+      .section3{
+        .container{
+            .many{
+                font-size: 10px;
+                width: 300px;
+            }
+            .section3_fasfood{
+                flex-direction: column;
+            
+            }
+            .fasfood2{
+                flex-direction: column;
+            }
+        }
+    }
+     .section5{
+        .container{
+            .also{
+                h2{
+                    width: 300px;
+                    font-size: 20px;
+                    line-height: normal;
+                }
+                form{
+                    input{
+                        width: 250px;
+                    }
+                    button{
+                        width: 80px;
+                    }
+                }
+            }
+        }
+    }
+   }
+}
+
+
+@media(max-width:420px){
+
+    header{
+        .container{
+            .header_navbar{
+           .header_hoome{
+            ul{
+                
+                li a{
+                    font-size: 10px;
+                     display: none;
+                }
+            }
+           }
+           button{
+            width: 70px;
+            height: 28px;
+            font-size: 10px;
+           }
+            }
+            .header_time{
+                display: flex;
+                flex-direction: column;
+                .header_stek{
+                    
+                     h2{
+                        width: 280px;
+                        font-size: 30px;
+                        line-height: normal;
+                     }
+                     p{
+                        font-size: 10px;
+                        line-height: normal;
+                       
+                        width: 200px;
+                     }
+                     .order{
+                        .Now{
+                            width: 130px;
+                        }
+                        .Food{
+                            width: 120px;
+                        }
+                     }
+                }
+                .stek2{
+                    img{
+                        width: 80%;
+                        
+                    }
+                }
+            }
+        }
+    }
+     main{
+        .section1{
+        .container{
+            .section1_cards{
+                flex-wrap: wrap;
+               align-items: center;
+               justify-content: center;
+                .card{
+                    width: 450px;
+                }
+                .card2{
+                    width: 450px;
+                }
+                .card3{
+                    width: 450px;
+                }
+            }
+        }
+    }
+    .section2{
+        .very{
+            display: none;
+        }
+    .container{
+         .section2_praduct{
+      flex-direction: column;
+      align-items: start;
+      .Group{
+        width: 300px;
+      }
+      .marketing{
+        h2{
+            width: 240px;
+            
+        }
+        .are{
+           width: 200px;
+        }
+        
+      }
+    }
+    }
+    }
+      .section3{
+        .container{
+            .many{
+                font-size: 10px;
+                width: 300px;
+            }
+            .section3_fasfood{
+                flex-direction: column;
+            .Vegie_Muffen{
+                width: 300px;
+            }
+            .Vegie_Muffen2{
+                width: 300px;
+            }
+            .Vegie_Muffen3{
+                width: 300px;
+            }
+
+   }
+            .fasfood2{
+                flex-direction: column;
+                .Delmonico{
+                    width: 300px;
+                   
+                    img{
+                        width: 100%;
+                    }
+                }
+                .Egg_Masala{
+                    width: 300px;
+                    
+                    img{
+                        width: 100%;
+                    }
+                }
+                .Peach_Melba_dish{
+                    width: 300px;
+                   
+                    .img{
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+     }
 }

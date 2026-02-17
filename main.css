@@ -8,7 +8,7 @@
   width: 100%;
   max-width: 1140px;
   margin: 0 auto;
-  padding: 15px;
+  padding: 25px;
 }
 
 header .container .header_navbar {
@@ -110,7 +110,7 @@ header .container .header_time .header_stek .order .Food:hover {
   color: #FFFFFF;
 }
 header .container .header_time .stek2 img {
-  width: 745px;
+  width: 130%;
   margin-left: -20px;
 }
 
@@ -252,15 +252,11 @@ main .section2 .very {
 main .section2 .container .section2_praduct {
   display: flex;
   align-items: center;
-  gap: 97px;
+  gap: 85px;
   margin-top: 70px;
 }
-main .section2 .container .section2_praduct .Group {
-  margin-left: -20px;
-  width: 555px;
-}
 main .section2 .container .section2_praduct .marketing {
-  width: 488px;
+  width: 50%;
 }
 main .section2 .container .section2_praduct .marketing .About {
   color: #DC780B;
@@ -275,11 +271,10 @@ main .section2 .container .section2_praduct .marketing h2 {
   font-size: 31px;
   line-height: 40px;
   margin-bottom: 30px;
-  width: 457px;
 }
 main .section2 .container .section2_praduct .marketing .are {
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 24px;
   color: #32312f;
   margin-bottom: 29px;
@@ -299,4 +294,1025 @@ main .section2 .container .section2_praduct .marketing button:hover {
   background: white;
   border: 1px solid #DC780B;
   color: #DC780B;
+}
+main .section3 .container .Menu {
+  margin-top: 115px;
+  color: #DC780B;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  margin-bottom: 9px;
+}
+main .section3 .container h2 {
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 24px;
+  color: #150C01;
+  margin-bottom: 25px;
+  text-align: center;
+}
+main .section3 .container .many {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434242;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+main .section3 .container .section3_fasfood {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen {
+  border: 1px solid rgba(0, 0, 0, 0.1019607843);
+  border-top: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen img {
+  width: 100%;
+  margin-bottom: 21px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .sum {
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  padding-left: 25px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .sum h3 {
+  font-weight: 700;
+  width: 146px;
+  font-size: 25px;
+  line-height: 24px;
+  color: #150C01;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .sum p {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 24px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .start {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545453;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .puls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .puls p {
+  border: 1px solid #DC780B;
+  background: #DC780B;
+  width: 34px;
+  height: 32px;
+  margin-left: 25px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 6px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen .puls .icon {
+  padding-right: 25px;
+  color: #DC780B;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 {
+  border: 1px solid rgba(0, 0, 0, 0.1019607843);
+  border-top: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 img {
+  width: 100%;
+  margin-bottom: 21px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .sum {
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  padding-left: 25px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .sum h3 {
+  font-weight: 700;
+  width: 146px;
+  font-size: 25px;
+  line-height: 24px;
+  color: #150C01;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .sum p {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 24px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .start {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545453;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .puls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .puls p {
+  border: 1px solid #DC780B;
+  background: #DC780B;
+  width: 34px;
+  height: 32px;
+  margin-left: 25px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 6px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen2 .puls .icon {
+  padding-right: 25px;
+  color: #DC780B;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 {
+  border: 1px solid rgba(0, 0, 0, 0.1019607843);
+  border-top: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 img {
+  width: 100%;
+  margin-bottom: 21px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .sum {
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  padding-left: 25px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .sum h3 {
+  font-weight: 700;
+  width: 146px;
+  font-size: 25px;
+  line-height: 24px;
+  color: #150C01;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .sum p {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 24px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .start {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545453;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .puls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .puls p {
+  border: 1px solid #DC780B;
+  background: #DC780B;
+  width: 34px;
+  height: 32px;
+  margin-left: 25px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 6px;
+}
+main .section3 .container .section3_fasfood .Vegie_Muffen3 .puls .icon {
+  padding-right: 25px;
+  color: #DC780B;
+}
+main .section3 .container .fasfood2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+main .section3 .container .fasfood2 .Delmonico {
+  border: 1px solid rgba(0, 0, 0, 0.1019607843);
+  border-top: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+main .section3 .container .fasfood2 .Delmonico img {
+  width: 100%;
+  margin-bottom: 21px;
+}
+main .section3 .container .fasfood2 .Delmonico .suma {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding-left: 20px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .fasfood2 .Delmonico .suma h4 {
+  font-weight: 700;
+  width: 248px;
+  font-size: 25px;
+  line-height: 24px;
+  color: #150C01;
+}
+main .section3 .container .fasfood2 .Delmonico .suma p {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 24px;
+}
+main .section3 .container .fasfood2 .Delmonico .start {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545453;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .fasfood2 .Delmonico .puls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+main .section3 .container .fasfood2 .Delmonico .puls p {
+  border: 1px solid #DC780B;
+  background: #DC780B;
+  width: 34px;
+  height: 32px;
+  margin-left: 25px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 6px;
+}
+main .section3 .container .fasfood2 .Delmonico .puls .icon {
+  padding-right: 25px;
+  color: #DC780B;
+}
+main .section3 .container .fasfood2 .Egg_Masala {
+  border: 1px solid rgba(0, 0, 0, 0.1019607843);
+  border-top: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+main .section3 .container .fasfood2 .Egg_Masala img {
+  width: 100%;
+  margin-bottom: 21px;
+}
+main .section3 .container .fasfood2 .Egg_Masala .suma {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding-left: 20px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .fasfood2 .Egg_Masala .suma h4 {
+  font-weight: 700;
+  width: 248px;
+  font-size: 25px;
+  line-height: 24px;
+  color: #150C01;
+}
+main .section3 .container .fasfood2 .Egg_Masala .suma p {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 24px;
+}
+main .section3 .container .fasfood2 .Egg_Masala .start {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545453;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .fasfood2 .Egg_Masala .puls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+main .section3 .container .fasfood2 .Egg_Masala .puls p {
+  border: 1px solid #DC780B;
+  background: #DC780B;
+  width: 34px;
+  height: 32px;
+  margin-left: 25px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 6px;
+}
+main .section3 .container .fasfood2 .Egg_Masala .puls .icon {
+  padding-right: 25px;
+  color: #DC780B;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish {
+  border: 1px solid rgba(0, 0, 0, 0.1019607843);
+  border-top: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish img {
+  width: 100%;
+  margin-bottom: 21px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .suma {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding-left: 20px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .suma h4 {
+  font-weight: 700;
+  width: 248px;
+  font-size: 25px;
+  line-height: 24px;
+  color: #150C01;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .suma p {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 24px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .start {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #545453;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .puls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .puls p {
+  border: 1px solid #DC780B;
+  background: #DC780B;
+  width: 34px;
+  height: 32px;
+  margin-left: 25px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 6px;
+}
+main .section3 .container .fasfood2 .Peach_Melba_dish .puls .icon {
+  padding-right: 25px;
+  color: #DC780B;
+}
+main .section3 .container .more {
+  text-align: center;
+  margin-bottom: 120px;
+}
+main .section3 .container .more button {
+  border: 1px solid #DC780B;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  background: white;
+  color: #DC780B;
+  width: 142px;
+  height: 42px;
+  border-radius: 5px;
+}
+main .section3 .container button:hover {
+  background: #DC780B;
+  color: white;
+  border: none;
+}
+main .section4 {
+  background: #FBF1E7;
+  height: 518px;
+  margin-bottom: 213px;
+}
+main .section4 .container .away {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+main .section4 .container .away .app {
+  width: 555px;
+  margin-top: -144px;
+}
+main .section4 .container .away .app .take {
+  color: #DC780B;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+main .section4 .container .away .app h4 {
+  color: #150C01;
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 40px;
+  margin-bottom: 29px;
+}
+main .section4 .container .away .app .you {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #52504f;
+  margin-bottom: 39px;
+}
+main .section4 .container .away .app .goole {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+main .section4 .container .away .iphone {
+  margin-top: -98px;
+}
+main .section5 {
+  background: #FBF1E7;
+  height: 448px;
+}
+main .section5 .container .also p {
+  padding-top: 115px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  color: #DC780B;
+  margin-bottom: 15px;
+  text-align: center;
+}
+main .section5 .container .also h2 {
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 40px;
+  color: #150C01;
+  text-align: center;
+  width: 749px;
+  margin: 0 auto;
+  margin-bottom: 46px;
+}
+main .section5 .container .also form {
+  text-align: center;
+}
+main .section5 .container .also form input {
+  width: 650px;
+  height: 75px;
+  border-radius: 10px;
+  border: none;
+  background: white;
+  padding: 32px;
+}
+main .section5 .container .also form button {
+  width: 150px;
+  background: #DC780B;
+  height: 75px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  margin-left: -12px;
+}
+
+@media (max-width: 1125px) {
+  main .section2 .very {
+    display: none;
+  }
+  main .section3 .container .section3_fasfood {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .fasfood2 {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 1093px) {
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .section2_praduct .marketing {
+    width: 30px;
+  }
+  main .section4 {
+    height: 50%;
+  }
+  main .section4 .container .away {
+    flex-direction: column;
+  }
+  main .section4 .container .away .app {
+    margin-top: 50px;
+  }
+  main .section4 .container .away .iphone {
+    margin-top: 100px;
+  }
+}
+@media (max-width: 950px) {
+  header .container .header_navbar button {
+    margin-right: 30px;
+  }
+  header .container .header_time {
+    display: flex;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 470px;
+    font-size: 38px;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 16px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 140px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 160px;
+  }
+  header .container .header_time .stek2 img {
+    width: 110%;
+    margin-left: 20px;
+  }
+  main .section1 .container .section1_cards {
+    flex-wrap: wrap;
+  }
+  main .section1 .container .section1_cards .card {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card2 {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card3 {
+    width: 450px;
+  }
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .container .section2_praduct h2 {
+    width: 360px;
+  }
+  main .section3 .container .section3_fasfood {
+    flex-wrap: wrap;
+  }
+  main .section3 .container .fasfood2 {
+    flex-wrap: wrap;
+  }
+  main .section5 .container .also h2 {
+    width: 500px;
+  }
+  main .section5 .container .also form input {
+    width: 450px;
+  }
+  main .section5 .container .also form button {
+    width: 100px;
+  }
+}
+@media (max-width: 850px) {
+  header .container .header_time {
+    display: flex;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 14px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 130px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 120px;
+  }
+  header .container .header_time .stek2 img {
+    width: 120%;
+  }
+}
+@media (max-width: 780px) {
+  header .container .header_navbar .header_hoome ul li a {
+    font-size: 14px;
+  }
+  header .container .header_navbar button {
+    width: 125px;
+    font-size: 12px;
+  }
+  header .container .header_time {
+    display: flex;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 14px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 130px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 120px;
+  }
+  header .container .header_time .stek2 img {
+    width: 120%;
+  }
+  main .section1 .container .section1_cards {
+    flex-wrap: wrap;
+  }
+  main .section1 .container .section1_cards .card {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card2 {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card3 {
+    width: 450px;
+  }
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .container .section2_praduct {
+    flex-direction: column;
+  }
+  main .section2 .container .section2_praduct .marketing h2 {
+    width: 420px;
+  }
+  main .section3 .container .many {
+    font-size: 10px;
+    width: 500px;
+  }
+  main .section3 .container .section3_fasfood {
+    flex-direction: column;
+  }
+  main .section3 .container .fasfood2 {
+    flex-direction: column;
+  }
+}
+@media (max-width: 680px) {
+  header .container .header_navbar .header_hoome ul li a {
+    font-size: 10px;
+  }
+  header .container .header_navbar button {
+    width: 90px;
+    height: 38px;
+    font-size: 10px;
+  }
+  header .container .header_time {
+    flex-direction: column;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 14px;
+    width: 400px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 130px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 120px;
+  }
+  header .container .header_time .stek2 img {
+    width: 80%;
+  }
+  main .section1 .container .section1_cards {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  main .section1 .container .section1_cards .card {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card2 {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card3 {
+    width: 450px;
+  }
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .container .section2_praduct {
+    flex-direction: column;
+  }
+  main .section2 .container .section2_praduct .marketing h2 {
+    width: 350px;
+  }
+  main .section4 {
+    height: 50%;
+  }
+  main .section4 .container .away {
+    flex-direction: column;
+  }
+  main .section4 .container .away .app {
+    margin-top: 50px;
+    width: 380px;
+  }
+  main .section4 .container .away .iphone {
+    margin-top: 100px;
+  }
+}
+@media (max-width: 590px) {
+  header .container .header_navbar .header_hoome ul li a {
+    font-size: 10px;
+    display: none;
+  }
+  header .container .header_navbar button {
+    width: 70px;
+    height: 28px;
+    font-size: 10px;
+  }
+  header .container .header_time {
+    display: flex;
+    flex-direction: column;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 380px;
+    font-size: 30px;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 14px;
+    width: 400px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 130px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 120px;
+  }
+  header .container .header_time .stek2 img {
+    width: 80%;
+  }
+  main .section1 .container .section1_cards {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  main .section1 .container .section1_cards .card {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card2 {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card3 {
+    width: 450px;
+  }
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .container .section2_praduct {
+    flex-direction: column;
+    align-items: start;
+  }
+  main .section2 .container .section2_praduct .Group {
+    width: 370px;
+  }
+  main .section2 .container .section2_praduct .marketing h2 {
+    width: 240px;
+  }
+  main .section2 .container .section2_praduct .marketing .are {
+    width: 200px;
+  }
+  main .section3 .container .many {
+    font-size: 10px;
+    width: 300px;
+  }
+  main .section3 .container .section3_fasfood {
+    flex-direction: column;
+  }
+  main .section3 .container .fasfood2 {
+    flex-direction: column;
+  }
+  main .section5 .container .also h2 {
+    width: 400px;
+  }
+  main .section5 .container .also form input {
+    width: 350px;
+  }
+  main .section5 .container .also form button {
+    width: 80px;
+  }
+}
+@media (max-width: 480px) {
+  header .container .header_navbar .header_hoome ul li a {
+    font-size: 10px;
+    display: none;
+  }
+  header .container .header_navbar button {
+    width: 70px;
+    height: 28px;
+    font-size: 10px;
+  }
+  header .container .header_time {
+    display: flex;
+    flex-direction: column;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 280px;
+    font-size: 30px;
+    line-height: normal;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 10px;
+    line-height: normal;
+    width: 200px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 130px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 120px;
+  }
+  header .container .header_time .stek2 img {
+    width: 80%;
+  }
+  main .section1 .container .section1_cards {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  main .section1 .container .section1_cards .card {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card2 {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card3 {
+    width: 450px;
+  }
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .container .section2_praduct {
+    flex-direction: column;
+    align-items: start;
+  }
+  main .section2 .container .section2_praduct .Group {
+    width: 350px;
+  }
+  main .section2 .container .section2_praduct .marketing h2 {
+    width: 240px;
+  }
+  main .section2 .container .section2_praduct .marketing .are {
+    width: 200px;
+  }
+  main .section3 .container .many {
+    font-size: 10px;
+    width: 300px;
+  }
+  main .section3 .container .section3_fasfood {
+    flex-direction: column;
+  }
+  main .section3 .container .fasfood2 {
+    flex-direction: column;
+  }
+  main .section5 .container .also h2 {
+    width: 300px;
+    font-size: 20px;
+    line-height: normal;
+  }
+  main .section5 .container .also form input {
+    width: 250px;
+  }
+  main .section5 .container .also form button {
+    width: 80px;
+  }
+}
+@media (max-width: 420px) {
+  header .container .header_navbar .header_hoome ul li a {
+    font-size: 10px;
+    display: none;
+  }
+  header .container .header_navbar button {
+    width: 70px;
+    height: 28px;
+    font-size: 10px;
+  }
+  header .container .header_time {
+    display: flex;
+    flex-direction: column;
+  }
+  header .container .header_time .header_stek h2 {
+    width: 280px;
+    font-size: 30px;
+    line-height: normal;
+  }
+  header .container .header_time .header_stek p {
+    font-size: 10px;
+    line-height: normal;
+    width: 200px;
+  }
+  header .container .header_time .header_stek .order .Now {
+    width: 130px;
+  }
+  header .container .header_time .header_stek .order .Food {
+    width: 120px;
+  }
+  header .container .header_time .stek2 img {
+    width: 80%;
+  }
+  main .section1 .container .section1_cards {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  main .section1 .container .section1_cards .card {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card2 {
+    width: 450px;
+  }
+  main .section1 .container .section1_cards .card3 {
+    width: 450px;
+  }
+  main .section2 .very {
+    display: none;
+  }
+  main .section2 .container .section2_praduct {
+    flex-direction: column;
+    align-items: start;
+  }
+  main .section2 .container .section2_praduct .Group {
+    width: 300px;
+  }
+  main .section2 .container .section2_praduct .marketing h2 {
+    width: 240px;
+  }
+  main .section2 .container .section2_praduct .marketing .are {
+    width: 200px;
+  }
+  main .section3 .container .many {
+    font-size: 10px;
+    width: 300px;
+  }
+  main .section3 .container .section3_fasfood {
+    flex-direction: column;
+  }
+  main .section3 .container .section3_fasfood .Vegie_Muffen {
+    width: 300px;
+  }
+  main .section3 .container .section3_fasfood .Vegie_Muffen2 {
+    width: 300px;
+  }
+  main .section3 .container .section3_fasfood .Vegie_Muffen3 {
+    width: 300px;
+  }
+  main .section3 .container .fasfood2 {
+    flex-direction: column;
+  }
+  main .section3 .container .fasfood2 .Delmonico {
+    width: 300px;
+  }
+  main .section3 .container .fasfood2 .Delmonico img {
+    width: 100%;
+  }
+  main .section3 .container .fasfood2 .Egg_Masala {
+    width: 300px;
+  }
+  main .section3 .container .fasfood2 .Egg_Masala img {
+    width: 100%;
+  }
+  main .section3 .container .fasfood2 .Peach_Melba_dish {
+    width: 300px;
+  }
+  main .section3 .container .fasfood2 .Peach_Melba_dish .img {
+    width: 100%;
+  }
 }/*# sourceMappingURL=main.css.map */
